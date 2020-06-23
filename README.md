@@ -1,6 +1,6 @@
 # Google-Analytics-Customer-Revenue-Prediction
 #### Team members: 
-Boya Sun, Yuting Li, Xiqiao Huang, Haohao, Mandy Gu
+Boya Sun, Yuting Li, Xiqiao Huang, Hao Hao, Mandy Gu
 #### Data source: 
 https://www.kaggle.com/c/ga-customer-revenue-prediction/data
 #### Business Objective
